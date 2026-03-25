@@ -1,0 +1,5 @@
+{
+  "name": "Travel Assist Dashboard",
+  "description": "A dashboard for managing travel passengers, airlines, and wallet balance.",
+  "requestFramePermissions": []
+}
